@@ -61,7 +61,7 @@ export default function AuditionsPage() {
           {status && <p>{status}</p>}
         </>
       ) : (
-        <p>Auditions are currently closed. Check back later.</p>
+        <p>Auditions are currently closed. Please check back later.</p>
       )}
     </main>
   )

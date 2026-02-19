@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Duke Idol Agency',
+  title: 'stage:zero',
   description: 'A student-run idol group agency at Duke University — auditions, members, events, contact.',
 }
 

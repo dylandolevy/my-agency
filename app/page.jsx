@@ -3,9 +3,9 @@ export default function HomePage() {
     <section style={{padding:'2rem 0'}}>
       <div style={{display:'grid', gap:20}}>
         <section id="about">
-          <h1>About Duke Idol Agency</h1>
+          <h1>About stage:zero</h1>
           <p>
-            We’re a student-run idol group agency at Duke University. We produce
+            stage:zero is a student-run idol group agency at Duke University. We produce
             performances, train talent, and manage auditions and events.
           </p>
           <h3>What we do</h3>
@@ -15,24 +15,23 @@ export default function HomePage() {
             <li>Organize events, photos, and recording sessions</li>
           </ul>
           <h3>Eligibility</h3>
-          <p>Open to current Duke students. No prior experience required.</p>
+          <p>Open to all current Duke undergraduate and graduate students. No prior experience required, but may be preferred in auditions.</p>
         </section>
 
         <section id="members">
           <h2>Members & Teams</h2>
-          <p>List your teams and a short intro — e.g. Main Group, Trainee Team, Dance Team.</p>
+          <p>Placeholder text.</p>
         </section>
 
         <section id="events">
           <h2>Upcoming Events</h2>
-          <p>Add your next show, rehearsal, or showcase details here.</p>
+          <p>Placeholder text.</p>
         </section>
 
         <section id="cta" style={{borderTop:'1px solid #eee', paddingTop:16}}>
           <h2>Auditions</h2>
           <p>
-            Auditions open/close is controlled from the admin panel. If auditions
-            are open, you can apply on the <a href="/auditions">Auditions page</a>.
+            If auditions are open, you can apply on the <a href="/auditions">Auditions page</a>.
           </p>
         </section>
       </div>
