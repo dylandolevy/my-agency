@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
       <body>
         <header className="site-header">
           <div className="container header-inner">
-            <a href="/" className="brand">Duke Idol Agency</a>
+            <a href="/" className="brand">stage:zero</a>
             <nav className="nav">
               <a href="/#about">About</a>
               <a href="/auditions">Auditions</a>
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
 
         <footer className="site-footer">
           <div className="container">
-            <p>© {new Date().getFullYear()} Duke Idol Agency — Built by students.</p>
+            <p>© {new Date().getFullYear()} stage:zero</p>
             <p><small>Contact: <a href="/contact">Contact form</a></small></p>
           </div>
         </footer>
